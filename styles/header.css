@@ -30,6 +30,11 @@
 
 .container__imagem {
     padding: 0.5em;
+    width: 30px;
+}
+
+.container__imagem-millenium {
+    width: 50px;
 }
 
 .lista-menu {
@@ -84,6 +89,14 @@
 
     .container__titulo--negrito {
         font-weight: 700;
+    }
+
+    .container__imagem {
+        width: 35px;
+    }
+    
+    .container__imagem-millenium {
+        width: 70px;
     }
 
     .opções {
